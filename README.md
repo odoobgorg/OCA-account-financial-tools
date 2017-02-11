@@ -23,12 +23,14 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
+[account_balance_line](account_balance_line/) | 9.0.1.0.0 | Display balance totals in move line view
 [account_fiscal_position_vat_check](account_fiscal_position_vat_check/) | 9.0.1.0.0 | Check VAT on invoice validation
 [account_fiscal_year](account_fiscal_year/) | 9.0.1.0.0 | Account Fiscal Year
 [account_invoice_currency](account_invoice_currency/) | 9.0.1.0.0 | Company currency in invoices
 [account_move_locking](account_move_locking/) | 9.0.1.0.0 | Move locked to prevent modification
 [account_permanent_lock_move](account_permanent_lock_move/) | 9.0.1.0.0 | Permanent Lock Move
 [account_renumber](account_renumber/) | 9.0.1.0.0 | Account Renumber Wizard
+[account_reversal](account_reversal/) | 9.0.1.0.0 | Wizard for creating a reversal account move
 [currency_rate_update](currency_rate_update/) | 9.0.1.0.0 | Currency Rate Update
 
 Unported addons
@@ -38,7 +40,6 @@ addon | version | summary
 [account_asset_management](account_asset_management/) | 8.0.2.6.0 (unported) | Assets Management
 [account_asset_management_xls](account_asset_management_xls/) | 8.0.0.1.0 (unported) | Assets Management Excel reporting
 [account_auto_fy_sequence](account_auto_fy_sequence/) | 8.0.0.1.0 (unported) | Automatic Fiscal Year Sequences
-[account_balance_line](account_balance_line/) | 8.0.1.1.0 (unported) | Display balance totals in move line view
 [account_cancel_invoice_check_payment_order](account_cancel_invoice_check_payment_order/) | 1.0 (unported) | Cancel invoice, check on payment order
 [account_cancel_invoice_check_voucher](account_cancel_invoice_check_voucher/) | 1.0 (unported) | Cancel invoice, check on bank statement
 [account_chart_update](account_chart_update/) | 8.0.1.2.0 (unported) | Detect changes and update the Account Chart from a template
@@ -58,7 +59,6 @@ addon | version | summary
 [account_move_template](account_move_template/) | 8.0.1.0.0 (unported) | Templates for recurring Journal Entries
 [account_partner_required](account_partner_required/) | 8.0.0.1.0 (unported) | Account partner required
 [account_reset_chart](account_reset_chart/) | 8.0.1.0.0 (unported) | Delete the accounting setup from an otherwise reusable database
-[account_reversal](account_reversal/) | 8.0.1.0.0 (unported) | Account Reversal
 [account_tax_analysis](account_tax_analysis/) | 8.0.1.0.0 (unported) | Tax analysis
 [account_tax_chart_interval](account_tax_chart_interval/) | 8.0.1.0.0 (unported) | Tax chart for a period interval
 [account_tax_update](account_tax_update/) | 1.0.44 (unported) | Update tax wizard
